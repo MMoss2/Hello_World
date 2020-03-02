@@ -1,7 +1,7 @@
 # Hello_World
 Practice Repository
 Hi I am a student at the University of Iowa. My main interests are data analytics and various programming lanuages like Python and SAS.
-$serif
+
 
 # Table of Contents
 - Example Project Titles
@@ -9,14 +9,20 @@ $serif
 - Examples of Coding Experience
 - Versioning
 
+
 # Example Project Titles
 -Example 1
+
+
 
 # Description of Projects
 - Example 1- We worked together to...
 
+
+
 # Examples of Coding Experience
 - Lines of code that do not fit into a "project"
+
 
 
 # Versioning
